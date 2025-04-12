@@ -2,8 +2,6 @@
 
 Projeto desenvolvido com **MySQL Workbench**, voltado para aprendizado e prática de SQL.
 
----
-
 ## 📂 Estrutura dos Scripts
 
 Os arquivos estão organizados para facilitar a criação do banco e a inserção dos dados:
@@ -16,7 +14,6 @@ Os arquivos estão organizados para facilitar a criação do banco e a inserçã
 | 4️⃣   | `04_insert_contas_receber.sql`   | Inserção das contas a receber              |
 | 5️⃣   | `05_views.sql`                   | Criação da view `contas_pagas`             |
 
----
 
 ## 🚀 Como executar
 
@@ -24,14 +21,12 @@ Os arquivos estão organizados para facilitar a criação do banco e a inserçã
 2. Abra os arquivos no **MySQL Workbench**
 3. Execute os scripts na ordem listada acima
 
----
 
 ## ✅ Requisitos
 
 - MySQL instalado
 - MySQL Workbench
 
----
 
 ## 🗺️ Diagrama Entidade-Relacionamento (DER)
 
@@ -42,7 +37,6 @@ O projeto também inclui o diagrama visual do banco de dados, disponível em doi
 
 ![DER](docs/der.png)
 
----
 
 ## 📌 Observações
 
@@ -50,4 +44,3 @@ O projeto também inclui o diagrama visual do banco de dados, disponível em doi
 - Os dados inseridos são fictícios e com fins didáticos
 - Projeto base disponível em: [Dia a Dia do Suporte](https://www.youtube.com/watch?v=p1w_1HSg8BY&list=PLO5rsoBNVkNonB8L7XDZPW_iDzSAyswjZ&index=28)
 
----
